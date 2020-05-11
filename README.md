@@ -20,3 +20,6 @@
 1. open cmd
 2. cd into the folder that contain the jar file
 3. type "java -jar flashget.jar" or "java --module-path YOUR OWN JAVA FX PATH --add-modules javafx.controls -jar flashget.jar"
+
+
+![Imgur](https://i.imgur.com/2eDWvkg.png)
